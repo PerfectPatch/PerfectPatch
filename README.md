@@ -5,3 +5,5 @@ At the moment, I am studying to complete my first project — an image compressi
 This is my experimental project, created to help me learn the C programming language and apply my knowledge in practice.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerfectPatch&show_icons=true&theme=dark)
+
+![andeoid-gif](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=bb6127192a96ca3ddda811e28882b6e5a80f78bb2c2191da2a62ddc26977e4fe)
