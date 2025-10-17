@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Alexander (aka cupper) 
 
-I’m a beginner hobbyist engineer. At the moment, I have very little experience related to what I want to do. I’m mainly interested in computers and, in general, all kinds of technology — how modules and components work. Right now, I’m studying how Linux works through the book How Linux Works by Brian Ward. I’m also interested in how hardware components function and everything related to that. I’d like to learn how to flash firmware and create smart devices. 
+Hello!
+My name is Alex, and I am a student at the Czech Technical University in Prague.
+At the moment, I am studying to complete my first project — an image compression algorithm.
+This is my experimental project, created to help me learn the C programming language and apply my knowledge in practice.
 
