@@ -1,4 +1,4 @@
-# Halo, my frando. My name is Alex <img src="https://waryhub.com/files/preview/960x960/11747285284swygoxfmz557stdmynqswluszz2mwy9mkowkxzyjcd2gy0erxydtv6eodfjht8zz96kzxpjpl7qfbzplghkfbw0eh4hztspmourk.png" alt="Hammer and Wrench" width="30" height="30" />
+# Hi user! My name is Alex <img src="https://waryhub.com/files/preview/960x960/11747285284swygoxfmz557stdmynqswluszz2mwy9mkowkxzyjcd2gy0erxydtv6eodfjht8zz96kzxpjpl7qfbzplghkfbw0eh4hztspmourk.png" alt="Hammer and Wrench" width="30" height="30" />
 
 I am a student at the Czech Technical University in Prague.
 At the moment, I am studying to complete my first project — an image compression algorithm.
