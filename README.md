@@ -1,4 +1,4 @@
-# WAZUUUP <img src="https://waryhub.com/files/preview/960x960/11747285284swygoxfmz557stdmynqswluszz2mwy9mkowkxzyjcd2gy0erxydtv6eodfjht8zz96kzxpjpl7qfbzplghkfbw0eh4hztspmourk.png" alt="Hammer and Wrench" width="30" height="30" />
+# WAZUUUP <img src="[https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fpngimg.com%2Fimage%2F5557&ved=0CBYQjRxqFwoTCKC-g__V6pIDFQAAAAAdAAAAABBZ&opi=89978449](https://preview.redd.it/nfscsfacfcp51.png?auto=webp&s=bd960b14790e832e9e2ca20313a697357b4220dd)" alt="Hammer and Wrench" width="30" height="30" />
 
 I am a student at the Czech Technical University in Prague.
 At the moment, I am studying to complete my first project — an image compression algorithm.
