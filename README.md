@@ -4,7 +4,9 @@ I am a student at the Czech Technical University in Prague.
 At the moment, I am studying to complete my first project — an image compression algorithm.
 This is my experimental project, created to help me learn the C programming language and apply my knowledge in practice.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=PerfectPatch&show_icons=true&theme=dark)](https://github.com/PerfectPatch)
+
 
 ## <img src="https://www.transparentpng.com/download/skeleton/WwKRGj-skeleton-clipart-picture.png" alt="Hammer and Wrench" width="30" height="30" /> **My Bones:**  
 [![My Bones](https://skillicons.dev/icons?i=c,py,java,bash,latex,md,arch,obsidian,notion,vscode,stackoverflow&perline=13)](#)
