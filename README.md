@@ -1,9 +1,6 @@
 # TA-TA-TA... <img src="https://preview.redd.it/nfscsfacfcp51.png?auto=webp&s=bd960b14790e832e9e2ca20313a697357b4220dd" alt="Hammer and Wrench" width="30" height="30" />
 
-I am a student at the Czech Technical University in Prague.
-At the moment, I am studying to complete my first project — an image compression algorithm.
-This is my experimental project, created to help me learn the C programming language and apply my knowledge in practice.
-
+💀 Bones are cool — they're full of calcium. Fun fact: there's a bone chapel in Czech Republic (that's where I live btw). I code random weird projects just for fun. Enjoy your milk! HAHAHAHAHA
 
 [![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=PerfectPatch&show_icons=true&theme=dark)](https://github.com/PerfectPatch)
 
