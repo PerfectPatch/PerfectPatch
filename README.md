@@ -2,8 +2,8 @@
 
 💀 Bones are cool — they're full of calcium. Fun fact: there's a bone chapel in Czech Republic (that's where I live btw). I code random weird projects just for fun. Enjoy your milk! HAHAHAHAHA
 
-[![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=PerfectPatch&show_icons=true&theme=dark)](https://github.com/PerfectPatch)
 
+<!--[![My GitHub Stats](https://my-github-readme-stats-zeta.vercel.app/api?username=PerfectPatch&show_icons=true&theme=dark)](https://github.com/PerfectPatch)-->
 
 ## <img src="https://www.transparentpng.com/download/skeleton/WwKRGj-skeleton-clipart-picture.png" alt="Hammer and Wrench" width="30" height="30" /> **My Bones:**  
 [![My Bones](https://skillicons.dev/icons?i=c,py,java,bash,latex,md,arch,obsidian,notion,vscode,stackoverflow&perline=13)](#)
